@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15" started-at="2017-10-07T06:23:21Z" finished-at="2017-10-07T06:23:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15" started-at="2017-10-07T06:23:21Z" finished-at="2017-10-07T06:23:21Z">
+      <class name="com.testng.SampleTest">
+        <test-method status="PASS" signature="samplebeforesuite()[pri:0, instance:com.testng.SampleTest@2344fc66]" name="samplebeforesuite" is-config="true" duration-ms="8" started-at="2017-10-07T11:53:21Z" finished-at="2017-10-07T11:53:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- samplebeforesuite -->
+        <test-method status="PASS" signature="sampleBeforeTest()[pri:0, instance:com.testng.SampleTest@2344fc66]" name="sampleBeforeTest" is-config="true" duration-ms="0" started-at="2017-10-07T11:53:21Z" finished-at="2017-10-07T11:53:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleBeforeTest -->
+        <test-method status="PASS" signature="sampleTestngExample()[pri:0, instance:com.testng.SampleTest@2344fc66]" name="sampleTestngExample" duration-ms="5" started-at="2017-10-07T11:53:21Z" finished-at="2017-10-07T11:53:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTestngExample -->
+        <test-method status="PASS" signature="sampleAfterTest()[pri:0, instance:com.testng.SampleTest@2344fc66]" name="sampleAfterTest" is-config="true" duration-ms="0" started-at="2017-10-07T11:53:21Z" finished-at="2017-10-07T11:53:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleAfterTest -->
+        <test-method status="PASS" signature="sampleAftersuite()[pri:0, instance:com.testng.SampleTest@2344fc66]" name="sampleAftersuite" is-config="true" duration-ms="0" started-at="2017-10-07T11:53:21Z" finished-at="2017-10-07T11:53:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleAftersuite -->
+      </class> <!-- com.testng.SampleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
